@@ -1,0 +1,14 @@
+{
+  "model_name": "RandomForest",
+  "params": {
+    "n_estimators": 150
+  },
+  "metrics": {
+    "mae": 2.495833333333334,
+    "mse": 7.156983333333337,
+    "rmse": 2.675253882033131,
+    "r2": 0.8109587563626357
+  },
+  "model_size_kb": 457.1884765625,
+  "avg_inference_latency_ms": 22.195928000001004
+}
